@@ -1,5 +1,6 @@
 
 ufos = {}
+local e
 furnacepos = {x = 0, y = 0, z = 0}
 
 local floor_pos = function(pos)
